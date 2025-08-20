@@ -28,7 +28,7 @@
 
 ## Setup Instructions
 
-### 1. Initialize Next.js Project
+1. Initialize Next.js Project
 
 If you haven’t already created a Next.js project:
 
